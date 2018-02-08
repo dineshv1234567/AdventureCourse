@@ -1,5 +1,18 @@
-@media only screen and (max-width: 768px) {
-    h1{
-        font-size:2px;
+   @media only screen and (max-width: 768px) {
+      p.contentBottom {
+      	font-size:12px;
+      }
+      #headingAtBottom{
+        font-size:14px;
+      }
+      
     }
-}
+
+    #navBar{
+    	display: inline;
+    }
+
+    #contact{
+    	padding: 10px;
+    	margin-bottom: 0px;
+    }
